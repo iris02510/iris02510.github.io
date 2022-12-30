@@ -1,0 +1,19 @@
+---
+title: <YOUR TITLE>
+date: <YOUR TIME>
+layout: post
+permalink: <YOUR LINK>
+categories:
+- <YOUR CATEGORY NAME>
+  tags:
+- <YOUR TAG NAME>
+---
+<iframe
+    src="https://www.youtube.com/embed/<YOUR VIDEO ID>"
+    width="800"
+    height="450"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+<YOUR DESCRIPTION>
