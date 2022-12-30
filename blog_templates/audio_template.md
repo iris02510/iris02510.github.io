@@ -4,9 +4,9 @@ date: <YOUR TIME>
 layout: post
 permalink: <YOUR LINK>
 categories:
-- <YOUR CATEGORY NAME>
-  tags:
-- <YOUR TAG NAME>
+  - <YOUR CATEGORY NAME>
+tags:
+  - <YOUR TAG NAME>
 ---
 
 <audio controls="controls">
