@@ -27,9 +27,9 @@ JB :
 domain: http://coolshell.info
 title: Iris Collection
 description: Draw my life with code
-author: Lippi.OuYang
+author: Iris
 email: iris@gmail.com
-github: LippiOuYang
+github: Iris
 
 config:
   js_dir:
