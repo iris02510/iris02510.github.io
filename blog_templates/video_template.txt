@@ -4,9 +4,9 @@ date: <YOUR TIME>
 layout: post
 permalink: <YOUR LINK>
 categories:
-    - <YOUR CATEGORY NAME>
+ - <YOUR CATEGORY NAME>
 tags:
-    - <YOUR TAG NAME>
+ - <YOUR TAG NAME>
 ---
 <iframe
     src="https://www.youtube.com/embed/<YOUR VIDEO ID>"
