@@ -13,7 +13,7 @@ title: "About"
 ## Contact
 
 <p class="contact">
-email: iris@gmail.com 
+email: wqwang0510@gmail.com 
 </p>
 
 
